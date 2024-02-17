@@ -14,17 +14,17 @@ function Kurum() {
       </p>
       <h5>Hizmet Alanları:</h5>
       <p>
-Meram Belediyesi, ilçenin alt yapı ihtiyaçlarına yönelik projeler geliştirir. Su, kanalizasyon, yol bakımı gibi altyapı hizmetleri, vatandaşların günlük yaşamlarını kolaylaştırmak ve modern bir çevre oluşturmak için sürekli olarak iyileştirilmektedir.
-Çevre Düzenlemesi ve Yeşil Alanlar:
-Meram, peyzaj açısından zengin bir bölge olduğu için çevre düzenlemesi büyük önem taşır. Belediye, parklar, bahçeler ve yeşil alanlar oluşturarak vatandaşlara nefes alabilecekleri alanlar sunar.
-Eğitim ve Kültür Hizmetleri:
-Kültür ve eğitim, Meram Belediyesi'nin öncelikli hizmet alanlarından biridir. Belediye, kültürel etkinlikler, sanat atölyeleri ve eğitim programları düzenleyerek ilçe sakinlerinin kişisel gelişimine katkı sağlar.
-Sosyal Yardım ve Destek:
-Belediye, ihtiyaç sahibi ailelere yönelik sosyal yardım projeleri düzenler ve toplumun dayanışmasını güçlendirmek adına çeşitli destekler sunar.
-Sağlık Hizmetleri:
-Meram Belediyesi, sağlık alanında da hizmet verir. Sağlık taramaları, bilinçlendirme kampanyaları ve toplum sağlığını geliştirmeye yönelik çeşitli projeleri hayata geçirir.
-Ulaşım ve Trafik Kontrolü:
-İlçe genelindeki ulaşımı düzenlemek ve trafik akışını kontrol altında tutmak amacıyla çeşitli projeleri yürütür.
+      Meram Belediyesi, ilçenin alt yapı ihtiyaçlarına yönelik projeler geliştirir. Su, kanalizasyon, yol bakımı gibi altyapı hizmetleri, vatandaşların günlük yaşamlarını kolaylaştırmak ve modern bir çevre oluşturmak için sürekli olarak iyileştirilmektedir.
+      Çevre Düzenlemesi ve Yeşil Alanlar:
+      Meram, peyzaj açısından zengin bir bölge olduğu için çevre düzenlemesi büyük önem taşır. Belediye, parklar, bahçeler ve yeşil alanlar oluşturarak vatandaşlara nefes alabilecekleri alanlar sunar.
+      Eğitim ve Kültür Hizmetleri:
+      Kültür ve eğitim, Meram Belediyesi'nin öncelikli hizmet alanlarından biridir. Belediye, kültürel etkinlikler, sanat atölyeleri ve eğitim programları düzenleyerek ilçe sakinlerinin kişisel gelişimine katkı sağlar.
+      Sosyal Yardım ve Destek:
+      Belediye, ihtiyaç sahibi ailelere yönelik sosyal yardım projeleri düzenler ve toplumun dayanışmasını güçlendirmek adına çeşitli destekler sunar.
+      Sağlık Hizmetleri:
+      Meram Belediyesi, sağlık alanında da hizmet verir. Sağlık taramaları, bilinçlendirme kampanyaları ve toplum sağlığını geliştirmeye yönelik çeşitli projeleri hayata geçirir.
+      Ulaşım ve Trafik Kontrolü:
+      İlçe genelindeki ulaşımı düzenlemek ve trafik akışını kontrol altında tutmak amacıyla çeşitli projeleri yürütür.
       </p>
       <h5>Katılımcı Yönetim ve İnovasyon:</h5>
       <p>
